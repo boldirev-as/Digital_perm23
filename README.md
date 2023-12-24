@@ -4,3 +4,7 @@ ML-solution of the case of the District hackathon Leaders of Digital 2023. The t
 
 ![image](https://github.com/boldirev-as/digital_perm23/assets/60057518/9425f9b2-e226-4e78-9acd-38c0074ec5cb)
 Link to hackaton: https://hacks-ai.ru/hackathons.html?eventId=969086&caseEl=1043819&tab=3
+
+Team ❤️
+![image](https://github.com/boldirev-as/digital_perm23/assets/60057518/31f115f8-0227-4f37-a9df-477ecd10a658)
+
