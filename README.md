@@ -8,3 +8,4 @@ Link to hackaton: https://hacks-ai.ru/hackathons.html?eventId=969086&caseEl=1043
 Team ❤️
 ![image](https://github.com/boldirev-as/digital_perm23/assets/60057518/31f115f8-0227-4f37-a9df-477ecd10a658)
 
+Presentation: https://lodmedia.hb.bizmrg.com/presentations/1042365/1043819/small.pdf
